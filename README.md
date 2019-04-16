@@ -24,15 +24,15 @@
 
 3. 首页
 
-![](3.png)
+![](finalimg/3.png)
 
 4. 资金
 
-![](4.png)
+![](finalimg/4.png)
 
 5. 个人信息
 
-![](5.png)
+![](finalimg/5.png)
 
 
 
