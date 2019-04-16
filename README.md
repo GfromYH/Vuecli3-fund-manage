@@ -16,23 +16,23 @@
 
  	1. 登陆界面
 
-![1555408843908](D:\vue-project\node-demo\node-app1\finalimg\1.png)
+![1555408843908](https://github.com/GfromYH/Vuecli3-fund-manage/edit/master/finalimg/1.png)
 
 2. 注册界面
 
-![](D:\vue-project\node-demo\node-app1\finalimg\2.png)
+![](https://github.com/GfromYH/Vuecli3-fund-manage/edit/master/finalimg/2.png)
 
 3. 首页
 
-![](D:\vue-project\node-demo\node-app1\finalimg\3.png)
+![](https://github.com/GfromYH/Vuecli3-fund-manage/edit/master/finalimg/3.png)
 
 4. 资金
 
-![](D:\vue-project\node-demo\node-app1\finalimg\4.png)
+![](https://github.com/GfromYH/Vuecli3-fund-manage/edit/master/finalimg/4.png)
 
 5. 个人信息
 
-![](D:\vue-project\node-demo\node-app1\finalimg\5.png)
+![](https://github.com/GfromYH/Vuecli3-fund-manage/edit/master/finalimg/5.png)
 
 
 
