@@ -1,0 +1,15 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "cnpm install --prefix client",
+    "client": "cnpm start --prefix client",
+    "start": "node serve.js",
+    "server": "nodemon server.js",
+    "dev": "concurrently \"cnpm run server\" \"cnpm run client\""
+  },
+  "author": "GJH",
+  "license": "ISC"
+}
